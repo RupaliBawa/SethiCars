@@ -30,7 +30,7 @@
   <div class="navbar">
     <a href="index.php" class="active">Home</a>
     <a href="login.php">Log In/Sign Up</a>
-    <a href="agencyregisteration.php" style="float: right;">Agency? Register here</a>
+    <a href="AgencyRegisteration.php" style="float: right;">Agency? Register here</a>
   </div>
 
 

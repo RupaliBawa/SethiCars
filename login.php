@@ -22,7 +22,7 @@
     <div class="navbar">
       <a href="index.php">Home</a>
       <a href="login.php" class="active">Log In/Sign Up</a>
-      <a href="agencyregisteration.php" style="float: right;">Agency? Register here</a>
+      <a href="AgencyRegisteration.php" style="float: right;">Agency? Register here</a>
     </div>
 
     <div class="login">
