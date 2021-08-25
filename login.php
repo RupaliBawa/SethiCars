@@ -34,7 +34,7 @@
         <input type="password" placeholder="Enter Password" name="psw" required><br>
 
         <button type="submit" name="login">Login</button><br>
-        <p>New User? <a href="#" onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Register here</a>. New Agency? <a href="agencyregisteration.php">Register here</a>.</p>
+        <p>New User? <a href="#" onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Register here</a>. New Agency? <a href="AgencyRegisteration.php">Register here</a>.</p>
       </form>
     </div>
 
